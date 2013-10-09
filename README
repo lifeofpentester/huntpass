@@ -1,0 +1,6 @@
+A Small Python Script that looks for a Password String in a File
+Then Stores the 'Unique' Passwords found to a New file
+
+Usage: python HuntPass.py <Inputfile> <Outputfile> <SearchString>
+
+Read More @: http://lifeofpentester.blogspot.in/2013/09/huntpasspy-python-script-that-searches.html
